@@ -123,13 +123,15 @@ This project aims to provide actionable insights into AtliQ’s sales performanc
   ~ Actionable insights provided in a clear, visual-first layout.
   ~ Custom DAX measures provide dynamic, real-time updates for future data integration.
 
-
-
-
-
-
+*
+*
+*
+*
+*
+*
 
 📊 AtliQ Finance & Sales Analysis – Key Takeaways (2019–2021)
+
 1️⃣ Exponential Revenue Growth
 Net Sales Surge:
 From $87.48M (2019) to $598.88M (2021) → 585% growth in 3 years.
